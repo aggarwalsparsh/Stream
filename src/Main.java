@@ -13,7 +13,7 @@ public class Main {
 
         // From a collection
         Stream<String> stream1 = list.stream();
-
+        // edit
 
 
     }
